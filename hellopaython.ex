@@ -4,7 +4,7 @@
 if attr:
     print('attr true')
     
-if not attr:
+if not atr:
     print('attr false')
 
 if atte is None:
